@@ -1,5 +1,6 @@
 # ReadMe
 >使用方法：使用Matlab打开工程所在目录，双击.prj文件打开工程。
+>others文件夹中的sitl_run_no_lockstep.sh脚本放到固件文件夹下的Tools文件夹中，来修复jmavsim启动脚本缺失问题
 
 - MATLAB 版本: 9.12.0.1884302 (R2022a)
 操作系统: Microsoft Windows 11 专业版 Version 10.0 (Build 22000)

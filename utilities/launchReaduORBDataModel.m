@@ -1,4 +1,4 @@
-function launchSimulinkNumberOne
+function launchReaduORBDataModel
 %
 
 %   Copyright 2021 The MathWorks, Inc.

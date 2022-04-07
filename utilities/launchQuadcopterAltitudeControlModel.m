@@ -1,4 +1,4 @@
-function launchSimulinkNumberFive
+function launchQuadcopterAltitudeControlModel
 %
 
 %   Copyright 2021 The MathWorks, Inc.

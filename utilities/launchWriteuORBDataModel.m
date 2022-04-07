@@ -1,4 +1,4 @@
-function launchSimulinkNumberTwo
+function launchWriteuORBDataModel
 %
 
 %   Copyright 2021 The MathWorks, Inc.

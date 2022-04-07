@@ -1,10 +1,13 @@
-# ReadMe
+# README
 >使用方法：使用Matlab打开工程所在目录，双击.prj文件打开工程。
->others文件夹中的sitl_run_no_lockstep.sh脚本放到固件文件夹下的Tools文件夹中，来修复jmavsim启动脚本缺失问题
 
 - MATLAB 版本: 9.12.0.1884302 (R2022a)
 操作系统: Microsoft Windows 11 专业版 Version 10.0 (Build 22000)
 Java 版本: Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode
+
+- others文件夹
+  - sitl_run_no_lockstep.sh脚本放到固件文件夹下的Tools文件夹中，来修复jmavsim with no lockstep启动脚本缺失问题；
+  - run_jmavsim_with_Simulink.sh脚本用来解决Run with IO时不能正确启动jmavsim的问题；
 ------------------------------------------------------------------------------------------------
 name|version|Matlab
 ---|:--:|---:

@@ -7,7 +7,7 @@ Java 版本: Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit 
 
 - others文件夹
   - sitl_run_no_lockstep.sh脚本放到固件文件夹下的Tools文件夹中，来修复jmavsim with no lockstep启动脚本缺失问题；
-  - run_jmavsim_with_Simulink.sh脚本用来解决Run with IO时不能正确启动jmavsim的问题；
+  - run_jmavsim_with_Simulink.sh脚本用来解决Run with IO有时候不能正确启动jmavsim的问题；
 ------------------------------------------------------------------------------------------------
 name|version|Matlab
 ---|:--:|---:

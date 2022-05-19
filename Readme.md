@@ -1,7 +1,7 @@
 # README
 Videos: 
-  - (PX4与Simulink联合仿真-入门篇)[https://www.bilibili.com/video/BV18P4y1T7UH?share_source=copy_web]
-  - (PX4与Simulink联合仿真-进阶篇)[https://www.bilibili.com/video/BV13S4y1P7QK?share_source=copy_web]
+  - [PX4与Simulink联合仿真-入门篇](https://www.bilibili.com/video/BV18P4y1T7UH?share_source=copy_web)
+  - [PX4与Simulink联合仿真-进阶篇](https://www.bilibili.com/video/BV13S4y1P7QK?share_source=copy_web)
 >使用方法：使用Matlab打开工程所在目录，双击.prj文件打开工程。
 
 - MATLAB 版本: 9.12.0.1884302 (R2022a)
